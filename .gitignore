@@ -1,0 +1,6 @@
+.vagrant
+.DS_Store
+.rpmsave
+*.bak
+*.rpmsave
+*.rpmnew
